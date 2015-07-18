@@ -1,0 +1,6 @@
+[submodule "rulers"]
+	path = rulers
+	url = git@github.com:baojjeu/rulers.git
+[submodule "best_quotes"]
+	path = best_quotes
+	url = git@github.com:baojjeu/best_quotes.git
